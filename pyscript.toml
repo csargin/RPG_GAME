@@ -1,0 +1,6 @@
+name = "RPG GAME"
+description = "A RPG game written in PyScript"
+[[fetch]]
+files = [ "player.py","config.py", "game_state.py", "render.py"]
+
+
